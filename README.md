@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="right">Hey 👋 What's up?</h1>
 
 ###
 
-<p align="left">My name is Akhil C and I'm a Backend Developer</p>
+<p align="left">My name is Akhil C :)</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ I’m interested in building web applications using Go programming language<br>📚  I’m a self learned go developer</p>
 
 ###
 
