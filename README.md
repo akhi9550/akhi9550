@@ -5,6 +5,7 @@
 ###
 
 <div align="center">
+  <br><br>
   <a href="akhilc248@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
@@ -35,7 +36,7 @@
 
 ###
 
-<p align="left">I'm Akhil C <br><br>✨ I’m interested in building web applications using Go programming language<br>📚 I’m a self learned go developer<br>🎲 Become a pro</p>
+<p align="left">I'm Akhil C From Kannur,India <br><br>✨ I’m interested in building web applications using Go programming language<br>📚 I’m a self learned go developer<br>🎲 Become a pro</p>
 
 ###
 
