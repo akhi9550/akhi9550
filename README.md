@@ -6,30 +6,26 @@
 ###
 
 <div align="center">
-  <br><br>
-  <a href="akhilc248@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
   <a href="https://www.linkedin.com/in/akhil-c-1381a4246/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/i.akxil/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
+  <a href="869614654165495898" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  </a>
 </div>
 
 ###
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=akhi9550.akhi9550&left_color=darkslategrey&right_color=yellowgreen"  />
+</div>
 
+###
 
-
-
-
-
-
-
-<br>
-<h1 align="left">Hey 👋 What's up?</h1>
+<h2 align="left">Hey 👋 What's up</h2>
 
 ###
 
@@ -37,7 +33,7 @@
 
 ###
 
-<p align="left">I'm Akhil C From Kannur,India <br><br>✨ I’m interested in building web applications using Go programming language<br>📚 I’m a self learned go developer<br>🎲 Become a pro</p>
+<p align="left">I'm Akhil C From India<br><br>- ⚡ I am passionate about backend development and distributed systems<br>- 🔭  I’m interested in building web applications using Go programming language<br>- 📚  I am a self-taught Golang developer<br>- 🎲 Become a pro</p>
 
 ###
 
@@ -53,6 +49,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
 
 ###
@@ -62,7 +62,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=akhi9550&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=akhi9550&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
 </div>
 
 ###
