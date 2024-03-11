@@ -77,9 +77,8 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=akhi9550&locale=en&mode=weekly&theme=midnight-purple&hide_border=false&border_radius=5&date_format=n/j%5B/Y%5D&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=akhi9550&locale=en&mode=weekly&theme=midnight-purple&hide_border=true&border_radius=5&order=3" height="200" alt="streak graph"  />
 </div>
 
 ###
-
 
